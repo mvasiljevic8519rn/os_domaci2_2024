@@ -1,1 +1,0 @@
-treba dodati status i date u dto
